@@ -1,5 +1,5 @@
-import render from "preact-render-to-string";
-import { h, Component } from "preact";
+import React from "react";
+import render from "react-dom/server";
 import { StaticRouter as Router } from "react-router-dom";
 
 import App from "../../src/App.js";
