@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter increment counter 1`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      1
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment counter 2`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      2
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment counter 3`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      3
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment counter 4`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      -1
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment counter 5`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      -2
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment counter 6`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      -3
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment->decrement/decrement->increment is idempotent 1`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      0
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
+
+exports[`Counter increment->decrement/decrement->increment is idempotent 2`] = `
+<Counter>
+  <div
+    className="Counter"
+  >
+    <div
+      className="count"
+    >
+      0
+    </div>
+    <Buttons
+      decrement={[Function]}
+      increment={[Function]}
+    >
+      <div>
+        <button
+          className="increment"
+          onClick={[Function]}
+        >
+          +
+        </button>
+        <button
+          className="decrement"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+    </Buttons>
+  </div>
+</Counter>
+`;
