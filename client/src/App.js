@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 
 import Counter from "./components/Counter";
+import Babapp from "./components/Babapp";
 
 class App extends Component {
 	render() {
@@ -12,6 +13,7 @@ class App extends Component {
 				</header>
 				<p className="App-intro">
 					<Counter />
+					<Babapp />
 				</p>
 			</div>
 		);
